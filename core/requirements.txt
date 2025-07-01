@@ -1,0 +1,6 @@
+﻿fastapi
+uvicorn[standard]
+pydantic
+python-dotenv
+llama-cpp-python==0.2.72
+huggingface-hub

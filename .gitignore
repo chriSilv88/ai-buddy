@@ -1,0 +1,4 @@
+# ── Modelli AI (GGUF, GGML, quantized) ───────────────────────────────
+*.gguf
+*.ggml
+core/models/
