@@ -8,9 +8,11 @@
 
 Emily – Offline, Privacy-First Language-Learning Assistant
 -->
-
+<p align="center">
+  <img src="docs/Emily.webp" alt="Emily cyber-ninja key art" width="400">
+</p>
 <h1 align="center">Emily</h1>
-<p align="center"><em>Offline, privacy-first assistant for learning Russian, powered by local LLMs.</em></p>
+<p align="center"><em>Offline, privacy-first assistant for learning language, powered by local LLMs.</em></p>
 
 <p align="center">
   <a href="LICENSE"><img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-green.svg"></a>
